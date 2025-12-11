@@ -6,46 +6,84 @@ This repository contains the centralized documentation, references, planning mat
 ## Purpose
 The CHATCHW project explores community health worker (CHW) applications, system design, research planning, and operational coordination. This repository ensures that all team members can easily access structured project knowledge.
 
-## Repository Structure
 
 
-chatchw/ 
-docs/ # General documentation, meeting notes, written materials
-  agendas/ # Agendas + takeaways from CHATCHW meetings
-  guidelines/ # Asha guidelines, instructions, standard practices
-  plans/ # Project plans (2024–2026 timelines, action plans)
-  Roadmaps/ # Roadmap documents for CHATCHW development
-  directory/ # CHW Copilot Drive Directory
-  workplans/ # Annual or semester workplans
-  readme/ # Internal README and summary materials
+# CHATCHW Repository Folder Index
 
-research/ # External reading, literature, ethics, references
-  articles/ # Articles and PDFs related to CHATCHW
-  references/ # Reference library
-  ethics/ # Ethics, policies, and regulation documents
+## docs/
+Main documentation hub.
 
-team/ # Organizational documents
-  interface-team/ # Interface Team documents
-  ideas/ # Notes, idea logs, brainstorming docs
-  rosters/ # Team rosters (Spring 2025, etc.)
-  teams/ # Team structure, subgroups
+### docs/agendas/
+Meeting agendas, minutes, and takeaways.
 
-presentations/ # Presentation slide decks and demos
-  demos/ # Demonstrations and example workflows
-  presentations/ # Formal presentation slides
+### docs/guidelines/
+Asha guideline documents and general standards.
 
-procedures/ # Policies, workflow instructions, operational steps
-  documentation/ # Documentation subfolder
-  procedures/ # Procedure manuals
+### docs/plans/
+Planning documents (semester plans, project timelines, CHW Copilot plans).
 
-spreadsheets/ # Spreadsheets from Google Drive
-  grading-rubrics/ # Grading rubrics and scoring sheets
-  misc/ # Other spreadsheets (untitled, planning, etc.)
+### docs/roadmaps/
+High-level roadmaps for project direction.
 
-archived/ # Outdated or legacy materials
-  Archive/ # Imported from Drive #Archive
+### docs/directory/
+CHW Copilot Drive directory and organizational charts.
 
-LICENSE # Project license (MIT by default)
+### docs/workplans/
+Workplans for specific semesters or years.
+
+### docs/readme/
+Internal explanations and summaries.
+
+---
+
+## research/
+External materials used by the CHATCHW team.
+
+### research/articles/
+Articles and research PDFs.
+
+### research/references/
+Reference materials (citations, bibliographies).
+
+### research/ethics/
+Ethical and regulatory documents.
+
+---
+
+## team/
+Organization and collaboration documents.
+
+### team/interface-team/
+Folder for interface-focused documents.
+
+### team/ideas/
+Brainstorming notes.
+
+### team/rosters/
+Team roster documents.
+
+### team/teams/
+All team structure or subgroup files.
+
+---
+
+## presentations/
+Slide decks, demos, and visuals.
+
+---
+
+## procedures/
+Operational workflow documents.
+
+---
+
+## spreadsheets/
+All spreadsheets used by the project.
+
+---
+
+## archived/
+Older materials kept for historical reference.
 
 
 ## Contribution Workflow
